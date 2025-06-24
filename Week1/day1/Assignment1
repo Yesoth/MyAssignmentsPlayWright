@@ -1,0 +1,11 @@
+let firstName= "Yesoth"
+let compName= "ICU"
+let mobNum= 9597
+let isAuto= true
+let hasPlaywright
+
+console.log(firstName, "-->", typeof firstName)
+console.log(compName, "-->", typeof compName)
+console.log(mobNum, "-->", typeof mobNum)
+console.log(isAuto, "-->", typeof isAuto)
+console.log(hasPlaywright, "-->", typeof hasPlaywright)
